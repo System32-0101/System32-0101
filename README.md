@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Systemm32
 - 👀 I’m interested in money 💸 and knowledge 🧠
-- 🌱 I’m currently learning JavaScript and APIs development
+- 🌱 I’m currently learning JavaScript and APIs development and C++/C#
 - 📫 How to reach me: Discord - !$ystem32#7779
 
 <!---
