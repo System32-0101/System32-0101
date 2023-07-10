@@ -5,7 +5,9 @@
 ## 🧠
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 <hr>
+
 ## ⚔
+
 ![image](https://www.codewars.com/users/Systemm32/badges/large)
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
