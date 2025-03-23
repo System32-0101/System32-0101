@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Systemm32
 - 👀 I’m interested in money 💸 and knowledge 🧠
-- 🌱 I’m currently learning Next.JS, Socket and C++/C#
-- 📫 How to reach me: Discord - $ystemm32
+- 🌱 I’m currently learning React, Frontend and SQL
+- 📫 How to reach me:
+      Discord - @systemmm32 / Portfolio: https://systemm32.pages.dev
 ## 🧠
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 <hr>
